@@ -8,4 +8,5 @@ Method AC of Factoring
 
 Method AC of Factoring
 
-![image](https://user-images.githubusercontent.com/88465332/135736917-87ea587b-dbde-46bf-8b16-ca219af62867.png)
+![image](https://user-images.githubusercontent.com/88465332/135737173-ad362a1e-5722-4da4-b387-2d73974f5675.png)
+
